@@ -1,4 +1,3 @@
-<img align="center" src="https://raw.githubusercontent.com/ValoriomMX/ValoriomMX/master/top.svg"/>
 <h3 align=center>Hi there im Valoriom</h3>
  <p align=center>
     Valoriom#1998
@@ -18,5 +17,3 @@
 <p></p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValoriomMX&show_icons=true&text_color=ED39DC&bg_color=181818&title_color=3EDAFF&icon_color=ffffff" alt="Valoriom" />
-
-<img align="center" src="https://raw.githubusercontent.com/ValoriomMX/ValoriomMX/master/bottom.svg"/>
