@@ -18,6 +18,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValoriomMX&show_icons=true&text_color=ED39DC&bg_color=181818&title_color=3EDAFF&icon_color=ffffff" alt="Valoriom" />
 
+<p></p>
+
 ---
 
 <a href="https://discord.com/users/173092194469675008">
