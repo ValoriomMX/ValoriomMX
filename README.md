@@ -25,6 +25,19 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ValoriomMX&show_icons=true&text_color=ED39DC&bg_color=181818&title_color=3EDAFF&icon_color=ffffff" alt="Valoriom" /></p>
