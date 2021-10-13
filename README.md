@@ -12,7 +12,7 @@
   </p>
 </a>
 
---
+
 
 <a href="https://discord.com/users/173092194469675008">
   <img src="https://lanyard-profile-readme.vercel.app/api/173092194469675008?hideTimestamp=true&idleMessage=doing%20absolutely%20nothing." align="right" />
@@ -21,7 +21,7 @@
 
 
 
---
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ValoriomMX&show_icons=true&text_color=ED39DC&bg_color=181818&title_color=3EDAFF&icon_color=ffffff" alt="Valoriom" /></p>
 
