@@ -44,8 +44,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ValoriomMX&show_icons=true&line_height=27&count_private=true&title_color=ff8d00&text_color=c9cacc&icon_color=2bbc8a&bg_color=202020"/>
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valoriomx&" alt="valoriomx" /></p>
-</a>
+<a href="https://valoriom.gg">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ValoriomMX&"/>
+ </a>
 <br/>
 <br/>
 </div>
