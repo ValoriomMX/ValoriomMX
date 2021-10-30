@@ -2,6 +2,12 @@
 
 ### Hey there, I'm [Valoriom!](https://valoriom.gg) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   
+<a href="https://github.com/ValoriomMX">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ValoriomMX" alt="Profile Views">
+  </p>
+</a>
+  
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/173092194469675008.png" />
 </p>
