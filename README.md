@@ -1,30 +1,36 @@
-<h3 align=center>Hi there im Valoriom</h3>
- <p align=center>
-    Valoriom#1998
-    </br>
-    <a href="https://twitter.com/Valoriom04">Twitter</a>
-    </br>
-  </p>
+<div align="center">
 
-<a href="https://github.com/ValoriomMX">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ValoriomMX" alt="Profile Views">
-  </p>
+### Hey there, I'm [Gaston!](https://chicho.wtf) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/173092194469675008.png" />
+</p>
+
+### 👨‍💻 Languages
+  [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com)
+  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+
+### 💻Technologies
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+
+### ⚡IDEs
+  [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea)
+  
+### 📫Contact
+  [![Email](https://img.shields.io/badge/Email-valorioms@gmail.com-04619f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valorioms@gmail.com)
+  ![Discord](https://img.shields.io/badge/Discord-Valoriom%235820-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+</br>  
+  
+<a href="https://valoriom.gg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValoriomMX&title_color=ff8d00&text_color=c9cacc&icon_color=2bbc8a&bg_color=202020"/>
 </a>
 
-
-
-<a href="https://discord.com/users/173092194469675008">
-  <img src="https://lanyard-profile-readme.vercel.app/api/173092194469675008?hideTimestamp=true&idleMessage=doing%20absolutely%20nothing." align="right" />
+<a href="https://chicho.wtf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ValoriomMX&show_icons=true&line_height=27&count_private=true&title_color=ff8d00&text_color=c9cacc&icon_color=2bbc8a&bg_color=202020"/>
 </a>
-
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ValoriomMX&show_icons=true&text_color=ED39DC&bg_color=181818&title_color=3EDAFF&icon_color=ffffff" alt="Valoriom" /></p>
-
-<p></p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValoriomMX&show_icons=true&text_color=ED39DC&bg_color=181818&title_color=3EDAFF&icon_color=ffffff" alt="Valoriom" />
+<br/>
+<br/>
+</div>
