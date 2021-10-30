@@ -1,5 +1,7 @@
 <div align="center">
 
+----------------------------------------------
+  
 ### Hey there, I'm [Valoriom!](https://valoriom.gg) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   
 <a href="https://github.com/ValoriomMX">
@@ -19,13 +21,13 @@
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 
-----------------------------------------------
+
   
 ### ⚡IDEs
   [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
   [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea)
   
-----------------------------------------------
+
   
 ### 📫Contact Information
   [![Email](https://img.shields.io/badge/Email-valorioms@gmail.com-04619f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valorioms@gmail.com)
