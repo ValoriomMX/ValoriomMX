@@ -14,6 +14,9 @@
   <img src="https://discord.c99.nl/widget/theme-4/173092194469675008.png" />
 </p>
 
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=Monkey&logo=discord&style=flat-square)](https://discord.gg/AH3XbvfuWs)
+<a href="https://discordapp.com/users/504384677335793675/">
+  
 ----------------------------------------------
   
 ### 💻Technologies
