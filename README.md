@@ -2,7 +2,7 @@
 
 ----------------------------------------------
   
-### Hey there, I'm [Valoriom!](https://valoriom.gg) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm [Valoriom!](https://valoriom.gg)
   
 <a href="https://github.com/ValoriomMX">
   <p align="center">
