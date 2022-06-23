@@ -31,7 +31,7 @@
   
 ### 📫Contact Information
   [![Email](https://img.shields.io/badge/Email-valorioms@gmail.com-04619f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valorioms@gmail.com)
-  ![Discord](https://img.shields.io/badge/Discord-Valoriom%235820-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+  ![Discord](https://img.shields.io/badge/Discord-Valoriom%237830-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 </br>  
   
 ----------------------------------------------
