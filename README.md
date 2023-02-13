@@ -3,6 +3,8 @@
 ----------------------------------------------
   
 ### Hey there, I'm [Valoriom!](https://valoriom.gg)
+
+### *I mostly do private work so don't expect to see much public commits from me*
   
 <a href="https://github.com/ValoriomMX">
   <p align="center">
@@ -11,7 +13,7 @@
 </a>
   
 
-[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=Monkey&logo=discord&style=flat-square)](https://discord.gg/Discord)
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=Development&logo=discord&style=flat-square)](https://discord.gg/Discord)
 <a href="https://discordapp.com/users/504384677335793675/">
   
 ----------------------------------------------
@@ -35,18 +37,10 @@
 </br>  
   
 ----------------------------------------------
-  
-<a href="https://valoriom.gg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValoriomMX&title_color=ff8d00&text_color=c9cacc&icon_color=2bbc8a&bg_color=202020"/>
-</a>
 
-<a href="https://valoriom.gg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ValoriomMX&show_icons=true&line_height=27&count_private=true&title_color=ff8d00&text_color=c9cacc&icon_color=2bbc8a&bg_color=202020"/>
-</a>
-
-<a href="https://valoriom.gg">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ValoriomMX&"/>
- </a>
-<br/>
-<br/>
-</div>
+### My GitHub Statistics
+<details>
+   <summary>Click to show</summary>
+   <img align="Left" alt="ValoriomMX's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ValoriomMX&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+   <img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValoriomMX&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
+</details>
